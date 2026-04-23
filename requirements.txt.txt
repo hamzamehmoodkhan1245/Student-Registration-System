@@ -1,2 +1,0 @@
-pillow
-mysql-connector-python
