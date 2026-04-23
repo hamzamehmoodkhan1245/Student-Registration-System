@@ -56,23 +56,23 @@ It provides a **user-friendly interface** and ensures smooth database operations
 ---
 
 ## 📂 Project Structure
+
+```bash
 student-registration-system/
 │── assets/
-│ ├── UI.png
-│ ├── register.png
-│ ├── database.png
+│   ├── UI.png
+│   ├── register.png
+│   ├── database.png
 │
 │── college_images/
-│ ├── mits.png
-│ ├── university.png
-│ ├── 5th.jpeg
+│   ├── mits.png
+│   ├── university.png
+│   ├── 5th.jpeg
 │
 │── main.py
 │── requirements.txt
 │── README.md
-
-
----
+```
 
 ## ⚙️ Installation & Setup
 
